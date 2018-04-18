@@ -1,0 +1,14 @@
+Tracbox es un proyecto creado para implantar un sistema de detección de copia de medicamentos. Utiliza las últimas tecnologías disponibles, de manera de crear un sistema en el que las copias son fácilmente detectables, a costo mínimo y bajo mantenimiento. 
+
+La tecnología de tracbox nace para satisfacer las necesidades del mercado español. Sin embargo el sistema es escalable y podría resolver el problema de los medicamentos falsificados no sólo en España o Europa, sino a nivel mundial. 
+ 
+En Tracbox no sólo queremos resolver un problema del ciclo del medicamento, queremos hacerlo de la forma más elegante y efectiva que permite la tecnología existente. 
+
+
+
+Nacemos tras la observación de una necesidad de la industria de cumplir Reglamento de la Unión Europea. La UE desea que la industria farmacéutica cree, implemente y costee un sistema anti-copia. Como puede leerse en la prensa especializada la industria tiene 5 sistemas anti-copia encima de la mesa pero ninguno les satisface.
+
+Nuestras experiencias y conocimientos en tecnologías modernas en compartición de token en entornos abiertos nos hace preguntar porqué no se ha diseñado ya esta solución para la industria farmacéutica.
+
+En los últimos años tecnologías como el BlockChain se han popularizado gracias a criptomnoedas como el bitcoin. El sistema Blockchain se puede utilizar como sistema de trazabilidad de un producto. Siendo esta tecnología probada y eficaz no sería eficiente aplicarla de manera completa al caso de los medicamentos. Bastaría con algunos de sus puntos fuertes junto con algún otro tipos de reconocidas tecnologías para tener un sistema seguro y barato. 
+
