@@ -25,3 +25,6 @@ masDe100/
 
 # ignorar la configuración del directorio
 .DS_Store
+
+# ignorar configuración del IDE
+.idea
